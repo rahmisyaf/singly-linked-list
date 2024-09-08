@@ -1,0 +1,14 @@
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\belajar-linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\belajar-linkedlist.AssemblyInfoInputs.cache
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\belajar-linkedlist.AssemblyInfo.cs
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\belajar-linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\belajar-linkedlist.dll
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\refint\belajar-linkedlist.dll
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\belajar-linkedlist.pdb
+C:\Users\rahmi\Documents\belajar-linkedlist\bin\Debug\net8.0\belajar-linkedlist.exe
+C:\Users\rahmi\Documents\belajar-linkedlist\bin\Debug\net8.0\belajar-linkedlist.deps.json
+C:\Users\rahmi\Documents\belajar-linkedlist\bin\Debug\net8.0\belajar-linkedlist.runtimeconfig.json
+C:\Users\rahmi\Documents\belajar-linkedlist\bin\Debug\net8.0\belajar-linkedlist.dll
+C:\Users\rahmi\Documents\belajar-linkedlist\bin\Debug\net8.0\belajar-linkedlist.pdb
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\belajar-linkedlist.genruntimeconfig.cache
+C:\Users\rahmi\Documents\belajar-linkedlist\obj\Debug\net8.0\ref\belajar-linkedlist.dll
